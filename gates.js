@@ -9,7 +9,7 @@
 
 ///The Basics 
 function and(i1, i2){
-	return inp1 & inp2 ;
+	return i1 & i2 ;
 }
 
 function or(i1, i2){
